@@ -37,7 +37,7 @@ global.packname = 'Smith' // ubah aja
 global.ownerr = ['Smith']// ubaha aja
 global.author = 'Smith' //ubah aja
 global.prefa = ['','!','.','🐦','🐤','🗿']
-global.sessionName = 'creds.json' //Gausah Juga
+global.sessionName = 'haikal' //Gausah Juga
 global.sp = '⭔' // Gausah Juga
 
 // Terserah
